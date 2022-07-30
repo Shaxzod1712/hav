@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24636275.css",
+    "main.js": "/static/js/main.89cf12e9.js",
+    "static/media/img2.png": "/static/media/img2.4967c2063a6cf214292e.png",
+    "static/media/img1.png": "/static/media/img1.b7fe9f70e13b66854951.png",
+    "static/media/ditailhouse1.png": "/static/media/ditailhouse1.fb4f239545f4be87ca9f.png",
+    "static/media/noimg2.jpeg": "/static/media/noimg2.0c17a36f42e6a68cba13.jpeg",
+    "static/media/categoryhouse.png": "/static/media/categoryhouse.5945b5050da5263cb867.png",
+    "static/media/ditailhouse2.png": "/static/media/ditailhouse2.8568395e7597e0f2ec67.png",
+    "static/media/apartment.svg": "/static/media/apartment.b4132d5fe73c1c0105534b55e188e615.svg",
+    "static/media/Group.svg": "/static/media/Group.0660e3abad77cf0c78cbd0d80e4456f7.svg",
+    "static/media/maps.svg": "/static/media/maps.4f0d985c0668275c1b0bf95ca75ea6bc.svg",
+    "static/media/calculator.svg": "/static/media/calculator.ebbcb70f32f169da217aa7b2485e2166.svg",
+    "static/media/car.svg": "/static/media/car.d06de511b9b8c629e876387ba47b4827.svg",
+    "static/media/discord.svg": "/static/media/discord.9d82ce431842231254a169974fa255bd.svg",
+    "static/media/phone.svg": "/static/media/phone.baba14b3219245109d9eb5a325b43cfa.svg",
+    "static/media/bed.svg": "/static/media/bed.b5d1328e7b12b15a7361d90824b2fd88.svg",
+    "static/media/house 1.svg": "/static/media/house 1.f209e1dbcff1eef8dc5557ebbed3dd87.svg",
+    "static/media/trash.svg": "/static/media/trash.9cf93b2963e32bc497bb235ddacfa565.svg",
+    "static/media/bath.svg": "/static/media/bath.fd99fc5a4a9a352cbb90c1306a5d3077.svg",
+    "static/media/SearchHome.svg": "/static/media/SearchHome.d00a2086488c255f69ee7c265e586481.svg",
+    "static/media/pin.svg": "/static/media/pin.45311c2e6c5f8666ba6b870629604358.svg",
+    "static/media/edit.svg": "/static/media/edit.7c23a8df0f42e469ef0d139859fa59f6.svg",
+    "static/media/ruler.svg": "/static/media/ruler.b20163819c001b099dfbb2912fbbf4f1.svg",
+    "static/media/resize.svg": "/static/media/resize.4e79c84991310b627f467ed5c606bab2.svg",
+    "static/media/login.svg": "/static/media/login.3da2cacb7a7c13eaee5e35b899d040ac.svg",
+    "static/media/logo.svg": "/static/media/logo.e5fa6572ae6aac8420b25b17282f9e1f.svg",
+    "static/media/heart.svg": "/static/media/heart.8f5b5cbd1ad7426931c9afc22ec59524.svg",
+    "static/media/calendar.svg": "/static/media/calendar.12f079adc3f2e9938a8d9ba6eec6e5bb.svg",
+    "static/media/SearchSearch.svg": "/static/media/SearchSearch.fea2373ae2641dea9ac67250c51cb325.svg",
+    "static/media/email 1.svg": "/static/media/email 1.ab30a6b5280b755579c3aef1662a509e.svg",
+    "static/media/ArrowIcon.svg": "/static/media/ArrowIcon.60d3045f4ab4655302abdf748949f591.svg",
+    "index.html": "/index.html",
+    "static/media/nav.svg": "/static/media/nav.5f0c7b3060409b7c77ff4dc2c29f7b4e.svg",
+    "main.24636275.css.map": "/static/css/main.24636275.css.map",
+    "main.89cf12e9.js.map": "/static/js/main.89cf12e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24636275.css",
+    "static/js/main.89cf12e9.js"
+  ]
+}
